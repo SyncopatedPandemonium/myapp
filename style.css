@@ -6,7 +6,7 @@ nav.flex-container {
     justify-content: space-evenly;
     /*flex-direction: column;*/
     }
-#menu-buttons {
+nav {
     padding-bottom: 25px;
     }
 
