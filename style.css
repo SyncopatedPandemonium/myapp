@@ -1,9 +1,9 @@
 body {background-color: darkslategrey;
 color: lightgrey;}
 
-.flex-container {
+nav.flex-container {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     /*flex-direction: column;*/
     }
 #menu-buttons {
