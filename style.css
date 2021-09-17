@@ -4,7 +4,12 @@ color: lightgrey;}
 .flex-container {
     display: flex;
     justify-content: center;
+    /*flex-direction: column;*/
     }
 #menu-buttons {
     padding-bottom: 25px;
     }
+
+p#lorem {
+    width: 80%;
+}
